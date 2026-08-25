@@ -1,0 +1,43 @@
+{
+  "name": "cozy-vintage-theme",
+  "displayName": "Cozy Vintage Theme",
+  "description": "A warm, low-saturation vintage-inspired VS Code theme with cozy dark and light variants for calm, comfortable coding.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "license": "Non-Commercial License",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/cozy-vintage-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vintage",
+    "cozy",
+    "warm",
+    "retro",
+    "dark",
+    "light",
+    "soft",
+    "theme"
+  ],
+  "icon": "store-assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cozy Vintage Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cozy-vintage-dark-color-theme.json"
+      },
+      {
+        "label": "Cozy Vintage Light",
+        "uiTheme": "vs",
+        "path": "./themes/cozy-vintage-light-color-theme.json"
+      }
+    ]
+  }
+}

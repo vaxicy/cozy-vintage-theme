@@ -1,0 +1,6 @@
+.codebuddy/
+**/*.ts
+**/*.map
+.github/
+store-assets/icon-example.png
+store-assets/icon-candidates/
