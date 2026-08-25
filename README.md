@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=lilinhuang.cozy-vintage-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/lilinhuang.cozy-vintage-theme?label=VS%20Code%20Marketplace" alt="VS Code Marketplace">
+    <img src="https://img.shields.io/badge/VS%20Code-Theme-C9A86C?logo=visual-studio-code" alt="VS Code Theme">
   </a>
 </p>
 
