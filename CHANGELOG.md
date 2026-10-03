@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- Replaced placeholder previews with real VS Code captures of both variants.
+- Updated README screenshots and install instructions.
+- Minor documentation and license-link fixes.
+
 ## 1.0.0
 
 - Initial release of Cozy Vintage.

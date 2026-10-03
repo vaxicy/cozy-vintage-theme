@@ -1,0 +1,6 @@
+发布 1.0.1：真实 VS Code 截图替换占位预览
+
+- 新增 capture-real-screenshots.py 与 demo-project，用独立配置截取 Dark / Light 真实窗口截图并裁掉窗口边框
+- README 更新截图与安装说明，修正 LICENSE 链接，CHANGELOG 增补 1.0.1
+- 新增 generate-portfolio-preview.py 生成 store-assets/preview.png
+- 删除已被替换的占位预览 cozy-vintage-{dark,light}.png

@@ -43,7 +43,7 @@ The syntax palette is shared across both variants for a consistent feel:
 ## Screenshots
 
 <p align="center">
-  <img src="store-assets/screenshots/en/cozy-vintage-dark.png" width="640" alt="Cozy Vintage Dark theme preview">
+  <img src="store-assets/screenshots/en/screenshot-dark.png" width="640" alt="Cozy Vintage Dark theme preview">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ The syntax palette is shared across both variants for a consistent feel:
 </p>
 
 <p align="center">
-  <img src="store-assets/screenshots/en/cozy-vintage-light.png" width="640" alt="Cozy Vintage Light theme preview">
+  <img src="store-assets/screenshots/en/screenshot-light.png" width="640" alt="Cozy Vintage Light theme preview">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ The syntax palette is shared across both variants for a consistent feel:
 Or install from the command line:
 
 ```bash
-code --install-extension cozy-vintage-theme-1.0.0.vsix
+code --install-extension cozy-vintage-theme-1.0.1.vsix
 ```
 
 ## Activation
@@ -82,4 +82,4 @@ Found a color that hurts your eyes or want a new variant? Open an issue on the p
 
 ## License
 
-Non-Commercial License. Free for personal, non-commercial use. See `LICENSE.md` for details.
+Non-Commercial License. Free for personal, non-commercial use. See `LICENSE` for details.
